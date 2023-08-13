@@ -1,0 +1,3 @@
+device=ares
+build_number=V12.5.12.0.RKJCNXM
+userdata_version=20211129.0000.00
